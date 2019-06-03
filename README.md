@@ -3,11 +3,17 @@
 University of South Carolina STEM Python Course Summer 2019
 
 Taught by:
+
 @blchavez
+
 @douglasquincyadams
+
 @fcashman
+
 @jpierel14
+
 @srodney
+
 @tylern4
 
 # Mon. Jun 3 : Day 1 - Introduction to Python
@@ -22,9 +28,9 @@ Taught by:
 * 11:00  Python Basics
 
 #### 12:30 - 1:30 Go get lunch.
-* there is space in the Astronomy Center to gather and eat together if you want. 
-  * Basement floor of Jones, rooms 005, 007, 008. 
-  * entering from Main St., go down the steps on the right, Astro Center is first door on the left.
+* there is space in the Astronomy Center to gather and eat together if you want.
+* Basement floor of Jones, rooms 005, 007, 008.
+* entering from Main St., go down the steps on the right, Astro Center is first door on the left.
 
 ### Monday Afternoon (1:30 - 3:30pm)
 * 1:30   More Python Basics
