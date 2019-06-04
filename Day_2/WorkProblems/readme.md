@@ -5,15 +5,15 @@ Work Problems:
     * files style: xdata, ydata, error
     
         Order:
-        * sinx
-        * sinxandcosx
-        * sinxcosx
-        * gravity
-        * sinxandcosx2
-        * linesinxandcosx
-        * hysteresis
-        * lineexp
-        * sinxandabs
+        * sinx: Asin(Bx)
+        * sinxandcosx: Asin(Bx) + Ccos(Dx)
+        * sinxcosx: Asin(Bx)cos(Cx)
+        * gravity: A + Bx -(C/2)x<sup>2</sup>
+        * sinxandcosx2: (Asin(Bx) +Ccos(Dx))<sup>2</sup>
+        * linesinxandcosx: Asin(Bx) + Ccos(Dx) +Ex
+        * hysteresis: Atanh(Bx + C) - D
+        * lineexp: Ae<sup>Bx</sup> + Cx
+        * sinxandabs: Aabs(x) + Bsin(Cx)
 2. Plot data and transpose
     * Do they equal each other
     * fit wiht SciPy
