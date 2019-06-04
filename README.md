@@ -4,17 +4,17 @@ University of South Carolina STEM Python Course Summer 2019
 
 Taught by:
 
-@blchavez
+@blchavez : blchavez@email.sc.edu
 
-@douglasquincyadams
+@douglasquincyadams : da2@email.sc.edu
 
-@fcashman
+@fcashman : fcashman@email.sc.edu
 
-@jpierel14
+@jpierel14 : jr23@email.sc.edu
 
-@srodney
+@srodney : steve.rodney@gmail.com
 
-@tylern4
+@tylern4 : tylerns@email.sc.edu
 
 # Mon. Jun 3 : Day 1 - Introduction to Python
 
