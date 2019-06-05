@@ -195,8 +195,7 @@ def DLw0wa( z, Om=0.3, Ode=0.7, w0=-1, wa=0,
 def mu( z, H0=70, Om=0.3, Ode=0.7, w0=-1, wa=0):
     """ Distance modulus to redshift z, 
     for the given cosmology """
-    DL_Mpc = DL(  z, H0=H0, Om=Om, Ode=Ode, 
-                  w0=w0, wa=wa, unit='Mpc' )
+    DL_Mpc = DL(  z, H0=H0, Om=Om, Ode=Ode, unit='Mpc' )
     return( 5*log10( DL_Mpc) + 25 )
 
 
