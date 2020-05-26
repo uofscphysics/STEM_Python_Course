@@ -1,5 +1,10 @@
 #!/usr/bin/env bash
 
+pip install --upgrade pip
 pip install -r requirements.txt
 
-jupyter notebook --ip=0.0.0.0 --port=3000
+mkdir -p /home/runner/.jupyter
+
+cp jupyter_notebook_config.py /home/runner/.jupyter/jupyter_notebook_config.py
+
+jupyter notebook
