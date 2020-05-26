@@ -36,6 +36,10 @@ will be given already working equivalent code which they have not seen before, w
 Both groups in the class will race to accomplish the creation of a ```vehiclemerge``` function routine given their own paradigm. After both groups have the code working, they will be given 10 minutes to refactor the code such that they feel it is the most easily added onto afterwards. Then the groups will be given an unknown task they cannot prepare for, and race to see who can add functionality fastest with the different paradigm. It should become obvious that in this particular example, using class inheritance and class instances is both slower, and harder to maintain than using objects with static functions. 
 
 
+# Machine Learning Random Forest
+
+Students will be introduced to a random forest machine learning tool, and use it to predict weather in seatle. 
+
 
 
 
