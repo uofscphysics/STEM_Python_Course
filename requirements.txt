@@ -5,3 +5,5 @@ numpy
 matplotlib
 sympy
 scipy
+emcee
+uproot
