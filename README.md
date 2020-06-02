@@ -16,6 +16,10 @@ Taught by:
 
 @tylern4 : tylerns@email.sc.edu
 
+### Run with Binder
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/uofscphysics/STEM_Python_Course/master)
+
 # Mon. Jun 3 : Day 1 - Introduction to Python
 
 ### Monday Morning (10am - noon)
