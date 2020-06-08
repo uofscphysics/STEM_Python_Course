@@ -9,3 +9,4 @@ emcee
 uproot
 geopandas
 descartes
+pillow
