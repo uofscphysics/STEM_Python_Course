@@ -7,3 +7,6 @@ sympy
 scipy
 emcee
 uproot
+
+python-twitter
+nltk
