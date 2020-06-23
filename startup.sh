@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+export PATH=${PATH}:${HOME}/.local/bin
+
 pip install --upgrade pip
 pip install -r requirements.txt
 
