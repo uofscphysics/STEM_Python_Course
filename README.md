@@ -18,7 +18,7 @@ Taught by:
 
 ### Run with Binder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/uofscphysics/STEM_Python_Course/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/uofscphysics/STEM_Python_Course/Summer2020)
 
 # Mon. Jun 3 : Day 1 - Introduction to Python
 

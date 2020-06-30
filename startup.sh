@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-export PATH=/home/runner/.local/bin:$PATH
+export PATH=${PATH}:${HOME}/.local/bin
 
 pip install --upgrade pip
 pip install -r requirements.txt
