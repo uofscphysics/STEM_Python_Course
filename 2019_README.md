@@ -1,9 +1,20 @@
-# TODO - FIXME
-
 # STEM Python Course
 
-University of South Carolina STEM Python Course Summer 2020
+University of South Carolina STEM Python Course Summer 2019
 
+Taught by:
+
+@blchavez : blchavez@email.sc.edu
+
+@douglasquincyadams : da2@email.sc.edu
+
+@fcashman : fcashman@email.sc.edu
+
+@jpierel14 : jr23@email.sc.edu
+
+@srodney : steve.rodney@gmail.com
+
+@tylern4 : tylerns@email.sc.edu
 
 ### Run with Binder
 
