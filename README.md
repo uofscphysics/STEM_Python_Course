@@ -1,6 +1,4 @@
-# TODO - FIXME
-
-# STEM Python Course
+# STEM Python Course 2020
 
 University of South Carolina STEM Python Course Summer 2020
 
