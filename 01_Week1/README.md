@@ -18,8 +18,8 @@ University of South Carolina STEM Python Course Summer 2020
 ____
 # Day 2 - Documentation and Understanding Errors
 * 8:30  Introducing documentation/Stack Overflow
-* 9:30  Writing a working program
-* 10:30  Identifying and fixing errors
+* 9:30  Identifying and fixing errors
+* 10:30  Writing a working program
 * 11:45 Wrap up
 ____
 # Day 3 - Loops and Packages
