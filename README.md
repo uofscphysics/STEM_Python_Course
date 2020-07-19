@@ -1,6 +1,6 @@
-# STEM Python Course 2020
+# Python for STEM Course 2020
 
-Welcome to the University of South Carolina STEM Python Course Summer 2020. Please proceed to the `01_Week1` folder if you are a participant in the Week 1-Beginner segment of the course. Please proceed to the `02_Week2` folder if you are a participant in the Week 2-Advanced segment of the course. 
+Welcome to the University of South Carolina Python for STEM Course Summer 2020. Please proceed to the `01_Week1` folder if you are a participant in the Week 1-Beginner segment of the course. Please proceed to the `02_Week2` folder if you are a participant in the Week 2-Advanced segment of the course. 
 
 # Instructors
 
