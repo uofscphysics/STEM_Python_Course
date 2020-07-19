@@ -5,5 +5,5 @@
 * 9:00  Activities implementing Pandas
 * 11:45 Wrap up
 
-### 07_PandasCovid19
+### 06_PandasIMDB
 * More in-depth use of the Pandas package for data analysis

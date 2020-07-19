@@ -7,5 +7,5 @@
 * 10:30 Simple Numpy, Pandas, Matplotlib usage
 * 11:45 Wrap up
 
-### 05_PackagesIntro
-* Introduction to Python packages and some specific uses
+### 04_Loops
+* Introduction to `for` and `while` loops 

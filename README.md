@@ -1,42 +1,14 @@
 # STEM Python Course 2020
 
-University of South Carolina STEM Python Course Summer 2020
+Welcome to the University of South Carolina STEM Python Course Summer 2020. Please proceed to the `01_Week1` folder if you are a participant in the Week 1-Beginner segment of the course. Please proceed to the `02_Week2` folder if you are a participant in the Week 2-Advanced segment of the course. 
+
+# Instructors
+
+Doug Adams: [@douglasquincyadams](https://github.com/douglasquincyadams) | [da2@email.sc.edu](da2@email.sc.edu)
+Ellie Davis: [@daviseleanorj](https://github.com/daviseleanorj) | [eleanord@email.sc.edu](eleanord@email.sc.edu)
+Justin Pierel: [@jpierel14](https://github.com/jpierel14) | [jr23@email.sc.edu](jr23@email.sc.edu)
+Steve Rodney: [@srodney](https://github.com/srodney) | [srodney@sc.edu](srodney@sc.edu)
+Nick Tyler: [@tylern4](https://github.com/tyler4) | [tylerns@email.sc.edu](tylerns@email.sc.edu)
+Benedicth Ukhueduan: [ukhuedub@email.sc.edu](ukhuedub@email.sc.edu)
 
 
-### Run with Binder
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/uofscphysics/STEM_Python_Course/Summer2020)
-
-# Day 1 - Introduction to Python
-* 8:30  Introductions, Overview of the week
-* 8:50  Getting [repl.it](repl.it) set up (accessing the resources) [Password: STEM_Python]
-* 9:30  Understanding Python Vocabulary
-* 10:45  Reading Python Programs
-* 11:45  Wrap up
-
-
-____
-# Day 2 - Documentation and Understanding Errors
-* 8:30  Introducing documentation/Stack Overflow
-* 9:30  Writing a working program
-* 10:30  Identifying and fixing errors
-* 11:45 Wrap up
-____
-# Day 3 - Loops and Packages
-* 8:30 Introduction to for/while loops
-* 9:00 Fixing/writing loops   
-* 10:00 Introduction to Python packages
-* 10:30 Simple Numpy, Pandas, Matplotlib usage
-* 11:45 Wrap up
-____
-# Day 4 - Useful Pandas Applications
-* 8:30  Examples of Pandas usages
-* 9:00  Activities implementing Pandas
-* 11:45 Wrap up
-
-____
-# Day 5 - Instruction Based on Feedback
-
-This day will be optional. We will solicit feedback during the week on topics you would like to learn more about, and then 
-spend Friday breaking up participants into groups to investigate the module they are most interested in. This will
-run during the same time period as days 1-4.
