@@ -9,7 +9,7 @@ University of South Carolina STEM Python Course Summer 2020
 
 # Day 1 - Introduction to Python
 * 8:30  Introductions, Overview of the week
-* 8:50  Getting repl.it set up (accessing the resources)
+* 8:50  Getting [repl.it](repl.it) set up (accessing the resources) [Password: STEM_Python]
 * 9:30  Understanding Python Vocabulary
 * 10:45  Reading Python Programs
 * 11:45  Wrap up
