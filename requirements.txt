@@ -11,3 +11,4 @@ nltk
 geopandas
 descartes
 pillow
+seaborn
