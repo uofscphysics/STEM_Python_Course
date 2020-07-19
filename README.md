@@ -14,11 +14,12 @@ University of South Carolina STEM Python Course Summer 2020
 * 10:45  Reading Python Programs
 * 11:45  Wrap up
 
+
 ____
 # Day 2 - Documentation and Understanding Errors
 * 8:30  Introducing documentation/Stack Overflow
-* 9:30  Identifying and fixing errors
-* 10:30  Writing a working program
+* 9:30  Writing a working program
+* 10:30  Identifying and fixing errors
 * 11:45 Wrap up
 ____
 # Day 3 - Loops and Packages
@@ -39,26 +40,3 @@ ____
 This day will be optional. We will solicit feedback during the week on topics you would like to learn more about, and then 
 spend Friday breaking up participants into groups to investigate the module they are most interested in. This will
 run during the same time period as days 1-4.
-
-# Repository Table of Contents
-
-## 00_ReadingPython
-* Powerpoint and links to games to learn basic Python vocabulary and understanding of simple programs
-
-## 01_Documentation
-* Powerpoint introducing participants to documentation and other resources for Python
-
-## 02_FixMe
-* Activities aimed at having participants fix broken and/or misbehaving code to learn error handling and useful documentation
-
-## 03_WorkingProgram
-* Activities that have participants create their first fully operational program from scratch
-
-## 04_Loops
-* Introduction to `for` and `while` loops 
-
-## 05_PackagesIntro
-* Introduction to Python packages and some specific uses
-
-## 06_PandasIMDB & 07_PandasCovid19
-* More in-depth use of the Pandas package for data analysis
