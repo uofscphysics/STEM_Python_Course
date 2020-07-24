@@ -7,7 +7,7 @@ University of South Carolina STEM Python Course Summer 2020
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/uofscphysics/STEM_Python_Course/Summer2020)
 
-## Each day will run from 8:30AM to 12PM ET
+### Each day will run from 8:30AM to 12PM ET
 
 # Day 1 - Probability and Statistics
 * Introductions, overview of the week
