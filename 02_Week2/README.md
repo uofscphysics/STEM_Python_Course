@@ -8,31 +8,27 @@ University of South Carolina STEM Python Course Summer 2020
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/uofscphysics/STEM_Python_Course/Summer2020)
 
 # Day 1 - Probability and Statistics
-* 8:30  Introductions, Overview of the week
-* 8:50  Directions for accessing/running the code
-* 9:30  Understanding probability theory with Python
-* 10:45 Simple statistics and data fitting
-* 11:45  Wrap up
+* Introductions, overview of the week
+* Directions for accessing/running the code
+* Understanding probability theory with Python
+* Simple statistics and data fitting
 
 ____
 # Day 2 - MCMC Fitting and Global Optimization Methods
-* 8:30  Introducing MCMC and nested sampling (NS) packages
-* 9:30  Fitting data with MCMC/NS 
-* 10:30  Global optimization for multimodal posterior distributions
-* 11:45 Wrap up
+* Introducing MCMC and nested sampling (NS) packages
+* Fitting data with MCMC/NS 
+* Global optimization for multimodal posterior distributions
 ____
 # Day 3 - Machine Learning: Clustering & Classification
-* 8:30 Introduction to clustering & classification with ML
-* 9:00 K-means clustering
-* 9:45 K-nearest neighbor
-* 10:30 Random Forest
-* 11:45 Wrap up
+* Introduction to clustering & classification with ML
+* K-means clustering
+* K-nearest neighbor
+* Random Forest
 ____
 # Day 4 - Machine Learning: Regression
-* 8:30  Introduction to regression with ML
-* 9:00 Random forest for regression
-* 10:15  Neural Networks
-* 11:45 Wrap up
+* Introduction to regression with ML
+* Random forest for regression
+* Neural Networks
 
 ____
 # Day 5 - Instruction Based on Feedback
