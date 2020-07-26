@@ -16,4 +16,6 @@ Nick Tyler: [@tylern4](https://github.com/tyler4) | [tylerns@email.sc.edu](tyler
 
 Benedicth Ukhueduan: [ukhuedub@email.sc.edu](ukhuedub@email.sc.edu)
 
+Yuhan Rao: [@geo-yrao](https://github.com/geo-yrao) | [yrao5@ncsu.edu](yrao5@ncsu.edu)
+
 
