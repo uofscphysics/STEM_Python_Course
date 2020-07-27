@@ -2,15 +2,27 @@
 
 ## 04_A_random_forest_regression_exercise.ipynb
 
-[![*Run this notebook in Colab:*](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/uofscphysics/STEM_Python_Course/blob/Summer2020/02_Week2/02_MCMC_Fitting/02_A_generate_dataset.ipynb)
+This is the in-class exercise notebook for implementing random forest for regression.
+
+![*Run this notebook in Colab:*](https://colab.research.google.com/assets/colab-badge.svg)
 
 _____
 ## 04_A_random_forest_regression_complete.ipynb
-k-means clustering: {Need to add the Open in Colab badge here}
+
+This is the complete notebook for implementing random forest for regression.
+
+![*Run this notebook in Colab:*](https://colab.research.google.com/assets/colab-badge.svg)
 
 _____
 ## 04_B_neural_network_regression_exercise.ipynb
 
+This is the in-class exercise notebook for implementing neural network for regression.
+
+![*Run this notebook in Colab:*](https://colab.research.google.com/assets/colab-badge.svg)
+
 _____
 ## 04_B_neural_network_regression_complete.ipynb
-k-means clustering: {Need to add the Open in Colab badge here}
+
+This is the complete notebook for implementing neural network for regression.
+
+![*Run this notebook in Colab:*](https://colab.research.google.com/assets/colab-badge.svg)
