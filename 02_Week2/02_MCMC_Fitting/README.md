@@ -6,34 +6,40 @@ Was used to create the data for this set of activites, you can use it to see how
 [![*Run this notebook in Colab:*](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/uofscphysics/STEM_Python_Course/blob/Summer2020/02_Week2/02_MCMC_Fitting/02_A_generate_dataset.ipynb)
 
 _____
-## 02_A_mcmc_fitting_exercise.ipynb
+## 02_A_mcmc_chisq_likelihood_fitting_exercise.ipynb
 A (mostly) empty notebook used for an exercise to learn about setting up and running an MCMC sampler.
 
-[![*Run this notebook in Colab:*](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/uofscphysics/STEM_Python_Course/blob/Summer2020/02_Week2/02_MCMC_Fitting/02_A_mcmc_fitting_exercise.ipynb)
+[![*Run this notebook in Colab:*](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/uofscphysics/STEM_Python_Course/blob/Summer2020/02_Week2/02_MCMC_Fitting/02_A_mcmc_chisq_likelihood_fitting_exercise.ipynb)
 
 _____
-## 02_A_mcmc_fitting_exercise_completed.ipynb
+## 02_A_mcmc_chisq_likelihood_fitting_exercise_completed.ipynb
 The completed notebook for the above MCMC exercise.
 
-[![*Run this notebook in Colab:*](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/uofscphysics/STEM_Python_Course/blob/Summer2020/02_Week2/02_MCMC_Fitting/02_A_mcmc_fitting_exercise_completed.ipynb)
+[![*Run this notebook in Colab:*](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/uofscphysics/STEM_Python_Course/blob/Summer2020/02_Week2/02_MCMC_Fitting/02_A_mcmc_chisq_likelihood_fitting_exercise_completed.ipynb)
 
 _____
-## 02_B_nested_sampling_fitting_exercise.ipynb
+## 02_B_nested_sampling_chisq_likelihood_fitting_exercise.ipynb
 A (mostly) empty notebook used for an exercise to learn about setting up and running a Bayesian Nested Sampling algorithm.
 
-[![*Run this notebook in Colab:*](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/uofscphysics/STEM_Python_Course/blob/Summer2020/02_Week2/02_MCMC_Fitting/02_B_nested_sampling_fitting_exercise.ipynb)
+[![*Run this notebook in Colab:*](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/uofscphysics/STEM_Python_Course/blob/Summer2020/02_Week2/02_MCMC_Fitting/02_B_nested_sampling_chisq_likelihood_fitting_exercise.ipynb)
 
 _____
-## 02_B_nested_sampling_fitting_exercise_completed.ipynb
+## 02_B_nested_sampling_chisq_likelihood_fitting_exercise_completed.ipynb
 The completed notebook for the above nested sampling exercise.
 
-[![*Run this notebook in Colab:*](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/uofscphysics/STEM_Python_Course/blob/Summer2020/02_Week2/02_MCMC_Fitting/02_B_nested_sampling_fitting_exercise_completed.ipynb)
+[![*Run this notebook in Colab:*](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/uofscphysics/STEM_Python_Course/blob/Summer2020/02_Week2/02_MCMC_Fitting/02_B_nested_sampling_chisq_likelihood_fitting_exercise_completed.ipynb)
 
 _____
 ## 02_C_global_optimization_activity.ipynb
-The notebook you'll use to complete an exercise aimed at learning about global optimization.
+The partially empty notebook you'll use to complete an exercise aimed at learning about global optimization via MCMC.
 
 [![*Run this notebook in Colab:*](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/uofscphysics/STEM_Python_Course/blob/Summer2020/02_Week2/02_MCMC_Fitting/02_C_global_optimization_activity.ipynb)
+
+_____
+## 02_C_global_optimization_activity_completed.ipynb
+The completed version of the global optimization activity.
+
+[![*Run this notebook in Colab:*](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/uofscphysics/STEM_Python_Course/blob/Summer2020/02_Week2/02_MCMC_Fitting/02_C_global_optimization_activity_completed.ipynb)
 
 _____
 ## 02_C_global_optimization_comparison.ipynb
