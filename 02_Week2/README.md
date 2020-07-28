@@ -15,11 +15,14 @@ University of South Carolina STEM Python Course Summer 2020
 * Understanding probability theory with Python
 * Simple statistics and data fitting
 
+[Slides for this day](https://docs.google.com/presentation/d/11_07j09Kxa7lyDdU-eumKqfXzdFePYT2x5q7RT6KwrI/edit?usp=sharing)
 ____
 # Day 2 - MCMC Fitting and Global Optimization Methods
 * Introducing MCMC and nested sampling (NS) packages
 * Fitting data with MCMC/NS 
 * Global optimization for multimodal posterior distributions
+
+[Slides for this day](https://docs.google.com/presentation/d/1WDA-fPV1ouuzx-_FelnE_g2s2J42xSisAOSZvHxSnSU/edit?usp=sharing)
 ____
 # Day 3 - Machine Learning: Clustering & Classification
 * Introduction to clustering & classification with ML
