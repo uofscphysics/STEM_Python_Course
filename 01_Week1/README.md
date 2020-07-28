@@ -14,12 +14,16 @@ University of South Carolina STEM Python Course Summer 2020
 * 10:45  Reading Python Programs
 * 11:45  Wrap up
 
+[Slides for this day](https://docs.google.com/presentation/d/1Ax2IB1lcuJM9RdKISdMi-7wqaAQw2k2Mx8cbfvd9AcU/edit?usp=sharing)
+
 ____
 # Day 2 - Documentation and Understanding Errors
 * 8:30  Introducing documentation/Stack Overflow
 * 9:30  Identifying and fixing errors
 * 10:30  Writing a working program
 * 11:45 Wrap up
+
+[Slides for this day](https://docs.google.com/presentation/d/1-0mnmeNHwSPoogBafsuYW4VzN-3L2RffOeSJ-6J4lA0/edit?usp=sharing)
 ____
 # Day 3 - Loops and Packages
 * 8:30 Introduction to for/while loops
@@ -27,11 +31,15 @@ ____
 * 10:00 Introduction to Python packages
 * 10:30 Simple Numpy, Pandas, Matplotlib usage
 * 11:45 Wrap up
+
+[Slides for this day](https://docs.google.com/presentation/d/1Aewdkzqhup3znR1ociduYPhapbNPmxdD5oeyvJMRyJA/edit?usp=sharing)
 ____
 # Day 4 - Useful Pandas Applications
 * 8:30  Examples of Pandas usages
 * 9:00  Activities implementing Pandas
 * 11:45 Wrap up
+
+[Slides for this day](https://docs.google.com/presentation/d/153839mni4snNC_CszEN9V2dnsFY-njy1f_wc_7oTuTI/edit?usp=sharing)
 
 ____
 # Day 5 - Instruction Based on Feedback
