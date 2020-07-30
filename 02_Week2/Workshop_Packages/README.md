@@ -1,0 +1,1 @@
+#### This simply shows an example of how to turn a file (or multiple files) into an installable python package. You can either download the repository and then enter this folder, or just copy the code into files on your local computer (there isn't much).
