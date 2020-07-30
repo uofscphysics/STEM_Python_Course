@@ -36,7 +36,6 @@ ____
 * 11:45 Wrap up
 
 [Slides for this day](https://docs.google.com/presentation/d/1Aewdkzqhup3znR1ociduYPhapbNPmxdD5oeyvJMRyJA/edit?usp=sharing)
-
 [Recording for this day](https://www.youtube.com/watch?v=2e_g_2F-POI)
 
 ____
@@ -46,7 +45,6 @@ ____
 * 11:45 Wrap up
 
 [Slides for this day](https://docs.google.com/presentation/d/153839mni4snNC_CszEN9V2dnsFY-njy1f_wc_7oTuTI/edit?usp=sharing)
-
 [Recording for this day](https://www.youtube.com/watch?v=Ym-LwsQAOZk)
 
 ____
