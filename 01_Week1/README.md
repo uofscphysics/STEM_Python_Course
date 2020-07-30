@@ -15,7 +15,6 @@ University of South Carolina STEM Python Course Summer 2020
 * 11:45  Wrap up
 
 [Slides for this day](https://docs.google.com/presentation/d/1Ax2IB1lcuJM9RdKISdMi-7wqaAQw2k2Mx8cbfvd9AcU/edit?usp=sharing)
-
 [Recording for this day](https://www.youtube.com/watch?v=OozJzWEEg2Y)
 
 ____
@@ -26,7 +25,6 @@ ____
 * 11:45 Wrap up
 
 [Slides for this day](https://docs.google.com/presentation/d/1-0mnmeNHwSPoogBafsuYW4VzN-3L2RffOeSJ-6J4lA0/edit?usp=sharing)
-
 [Recording for this day](https://www.youtube.com/watch?v=HcO2DsU95Ak)
 
 ____
