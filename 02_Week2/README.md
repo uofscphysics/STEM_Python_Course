@@ -29,12 +29,15 @@ ____
 * K-means clustering
 * K-nearest neighbor
 * Random Forest
+
+[Slides for this day](https://docs.google.com/presentation/d/1ao4RWm5l6sdd9JhUNdGprSoV19pnqmxU2qfvju5UE5w/edit?usp=sharing)
 ____
 # Day 4 - Machine Learning: Regression
 * Introduction to regression with ML
 * Random forest for regression
 * Neural Networks
 
+[Slides for this day](https://docs.google.com/presentation/d/1292IC5cYID3oUPv5c05HIDM07p-4sKBwqmkVHnd7OcI/edit?usp=sharing)
 ____
 # Day 5 - Instruction Based on Feedback
 
