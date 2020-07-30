@@ -29,6 +29,8 @@ ____
 * K-means clustering
 * K-nearest neighbor
 * Random Forest
+
+[Slides for this day](https://docs.google.com/presentation/d/1ao4RWm5l6sdd9JhUNdGprSoV19pnqmxU2qfvju5UE5w/edit?usp=sharing)
 ____
 # Day 4 - Machine Learning: Regression
 * Introduction to regression with ML
