@@ -24,4 +24,4 @@ _____
 
 This is the complete notebook for implementing neural network for regression.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/uofscphysics/STEM_Python_Course/blob/Summer2020/02_Week2/04_ML_regression/04_Pt2_ML_regression_neural_network_exercise.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/uofscphysics/STEM_Python_Course/blob/Summer2020/02_Week2/04_ML_regression/04_Pt2_ML_regression_neural_network_complete.ipynb)
