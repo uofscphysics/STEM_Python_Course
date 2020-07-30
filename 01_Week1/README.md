@@ -2,6 +2,7 @@
 
 University of South Carolina STEM Python Course Summer 2020
 
+### [Set up your repl.it](https://docs.google.com/presentation/d/16pSbnx0jwZfSlloKJGbU4lP8OR7l1Ou77B-CzGDTN6I/edit?usp=sharing)
 
 ### Run with Binder
 
