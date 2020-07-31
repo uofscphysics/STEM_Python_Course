@@ -1,0 +1,3 @@
+#### This simply shows an example of how to turn a file (or multiple files) into an installable python package. You can either download the repository and then enter this folder, or just copy the code into files on your local computer (there isn't much).
+
+Here the code to turn into a package is housed in the `myCode` folder. If you run the `make_installable.py` file this will become a package (in the current directory) called `stem_package`. The package is installable, and you can look at more examples [here](https://codetopackage.readthedocs.io/en/latest/examples.html) about how to add docs and make the package `pip` installable. 
