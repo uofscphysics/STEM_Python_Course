@@ -7,11 +7,11 @@ Notebook showing timing and code profiling.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/uofscphysics/STEM_Python_Course/blob/Summer2020/02_Week2/Workshop_CodeOptimization/A_Profiling.ipynb)
 
 _____
-## B_Cython.ipynb
+## B_Cython_and_numba.ipynb
 
 Intro to using cythong in jupyter notebooks.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/uofscphysics/STEM_Python_Course/blob/Summer2020/02_Week2/Workshop_CodeOptimization/B_Cython.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/uofscphysics/STEM_Python_Course/blob/Summer2020/02_Week2/Workshop_CodeOptimization/B_Cython_and_numba.ipynb)
 
 _____
 ## C_Advanced_Cython.ipynb
