@@ -57,6 +57,9 @@ This day will be optional. We will solicit feedback during the week on topics yo
 spend Friday breaking up participants into groups to investigate the module they are most interested in. This will
 run during the same time period as days 1-4.
 
+[Recording for this day](https://www.youtube.com/watch?v=7cy5WntCj0k)
+
+
 # Repository Table of Contents
 
 ## 00_ReadingPython
