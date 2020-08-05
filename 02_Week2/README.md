@@ -40,10 +40,13 @@ ____
 * Random forest for regression
 * Neural Networks
 
-[Slides for this day](https://docs.google.com/presentation/d/1292IC5cYID3oUPv5c05HIDM07p-4sKBwqmkVHnd7OcI/edit?usp=sharing)
+[Slides for this day](https://docs.google.com/presentation/d/1292IC5cYID3oUPv5c05HIDM07p-4sKBwqmkVHnd7OcI/edit?usp=sharing) | 
+[Recording for this day](https://youtu.be/pAv6p9qgBwc)
 ____
 # Day 5 - Instruction Based on Feedback
 
 This day will be optional. We will solicit feedback during the week on topics you would like to learn more about, and then 
 spend Friday breaking up participants into groups to investigate the module they are most interested in. This will
 run during the same time period as days 1-4.
+
+[Recording for this day](https://youtu.be/df1dZKgrAMk)
