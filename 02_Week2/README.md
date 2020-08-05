@@ -49,4 +49,4 @@ This day will be optional. We will solicit feedback during the week on topics yo
 spend Friday breaking up participants into groups to investigate the module they are most interested in. This will
 run during the same time period as days 1-4.
 
-[Recording for this day](https://youtu.be/df1dZKgrAMk)
+[Recording for this day](https://youtu.be/ejvIncgsRPc)
