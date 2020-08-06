@@ -49,4 +49,5 @@ This day will be optional. We will solicit feedback during the week on topics yo
 spend Friday breaking up participants into groups to investigate the module they are most interested in. This will
 run during the same time period as days 1-4.
 
+[Slides for this day](https://docs.google.com/presentation/d/1WoicaQJMif3kXWEq7zNVqDIzIw0tad3aSmpcN2GoGcM/edit?usp=sharing) | 
 [Recording for this day](https://youtu.be/ejvIncgsRPc)
